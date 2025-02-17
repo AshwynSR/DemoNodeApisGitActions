@@ -11,7 +11,7 @@ jobs:
   test:
     env:
       MONGODB_CONNECTION_URL: mongodb+srv://AshwinRathore:mHMVxhhIuV3OmvnE@mongodbcluster.0chzr.mongodb.net/
-      MONGODB_CLUSTER_NAME: mongodbcluster.0chzr.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: mongodbcluster.0chzr.mongodb.net
       MONGODB_USERNAME: AshwinRathore
       MONGODB_PASSWORD: mHMVxhhIuV3OmvnE
       PORT: 3000
